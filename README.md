@@ -16,10 +16,10 @@ Out of my curiosity, I questioned how would both the techniques compare with eac
 
 ## Problem Type
 Forecasting Problem.
+
 **Result Metrics**
 Mean Squared Error(MSE),Mean Absolute Percentage Error(MAPE), R2 Score.(Time Series)
 Overvalued or Undervalued (Fundamental Analysis)
-
 
 ## Actionable Insight
 Whether to Invest in the underlying Stock/Security or Not.
@@ -33,23 +33,15 @@ Whether to Invest in the underlying Stock/Security or Not.
 **Scipy**            
 **fbprophet**          
 
+## About the Data
+Data was collected from Yahoo Finance (https://finance.yahoo.com/). Ticker is 'AAPL' and time period for data is from 1st-April-2012 to 31st-Dec-2019 with Daily frequency containing 2011 records in total.
 
-
-
-
-
-
-
-## Data
-
-
-
-
-
-
-
-Credits/Resources
-
+## Credits/Resources
+- Yahoo Finance [https://finance.yahoo.com/]
+- https://machinelearningmastery.com/arima-for-time-series-forecasting-with-python/
+- https://machinelearningmastery.com/gentle-introduction-autocorrelation-partial-autocorrelation/
+- https://machinelearningmastery.com/time-series-data-visualization-with-python/
+- https://otexts.com/fpp2/intro.html
 
 
 
