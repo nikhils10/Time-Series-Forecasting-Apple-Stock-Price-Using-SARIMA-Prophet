@@ -25,8 +25,13 @@ Overvalued or Undervalued (Fundamental Analysis)
 Whether to Invest in the underlying Stock/Security or Not.
 
 ## Libraries Used
-**Pandas**            **Matplotlib**        **Sklearn**            **Seaborn **
-**Statsmodels **      **Scipy **            **fbprophet**          
+**Pandas**            
+**Matplotlib**        
+**Sklearn**            
+**Seaborn**
+**Statsmodels**      
+**Scipy**            
+**fbprophet**          
 
 
 
