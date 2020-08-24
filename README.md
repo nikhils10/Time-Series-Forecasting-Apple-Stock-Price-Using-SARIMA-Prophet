@@ -25,14 +25,14 @@ Overvalued or Undervalued (Fundamental Analysis)
 Whether to Invest in the underlying Stock/Security or Not.
 
 ## Tools & Libraries Used
-**Python 3.6**
-**Pandas**            
-**Matplotlib**        
-**Sklearn**            
-**Seaborn**
-**Statsmodels**      
-**Scipy**            
-**fbprophet**          
+- **Python 3.6**
+- **Pandas**        
+- **Matplotlib**        
+- **Sklearn**            
+- **Seaborn**
+- **Statsmodels**      
+- **Scipy**            
+- **fbprophet**          
 
 ## About the Data
 Data was collected from Yahoo Finance (https://finance.yahoo.com/). Ticker is 'AAPL' and time period for data is from 1st-April-2012 to 31st-Dec-2019 with Daily frequency containing 2011 records in total.
