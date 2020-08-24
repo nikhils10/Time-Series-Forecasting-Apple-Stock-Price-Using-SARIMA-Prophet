@@ -24,7 +24,8 @@ Overvalued or Undervalued (Fundamental Analysis)
 ## Actionable Insight
 Whether to Invest in the underlying Stock/Security or Not.
 
-## Libraries Used
+## Tools & Libraries Used
+**Python 3.6**
 **Pandas**            
 **Matplotlib**        
 **Sklearn**            
