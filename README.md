@@ -1,7 +1,7 @@
 # Time-Series Forecasting-Apple Stock Price Using SARIMA & Prophet
 
 ## Project Overview 
-Comparision between **Time Series Analysis Vs Fundamental Analysis for Apple Inc**.
+Comparison between **Time Series Analysis Vs Fundamental Analysis for Apple Inc**.
 Time Series Analysis uses historical patterns, seasonality to predict the future values by developing mathematical models that capture the series.
 We used **Seasonal Auto-Regressive Moving Average(SARIMA) & Prophet** for Time Series Forecasting.
 
