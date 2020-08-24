@@ -18,6 +18,7 @@ Out of my curiosity, I questioned how would both the techniques compare with eac
 Forecasting Problem.
 
 **Result Metrics**
+
 Mean Squared Error(MSE),Mean Absolute Percentage Error(MAPE), R2 Score.(Time Series)
 
 Overvalued or Undervalued (Fundamental Analysis)
