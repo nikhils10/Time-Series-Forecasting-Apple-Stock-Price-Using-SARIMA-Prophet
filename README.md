@@ -39,6 +39,14 @@ Whether to Invest in the underlying Stock/Security or Not.
 ## About the Data
 Data was collected from Yahoo Finance (https://finance.yahoo.com/). Ticker is 'AAPL' and time period for data is from 1st-April-2012 to 31st-Dec-2019 with Daily frequency containing 2011 records in total.
 
+## Additional File Links
+Some additional links wrt to Business Valuation files :-
+1.) Discounted Cash Flow Excel Sheet-https://drive.google.com/file/d/1EPU_JsF5EnPc9fhBniFpKeXH9J9GkFDt/view?usp=sharing
+2.) Detailed Report Valuation - https://docs.google.com/document/d/1zNf9gxoUwTUocQpKLseXJqHEit162CRx1bI5srsSMTE/edit?usp=sharing
+
+
+
+
 ## Credits/Resources
 - Yahoo Finance [https://finance.yahoo.com/]
 - https://machinelearningmastery.com/arima-for-time-series-forecasting-with-python/
