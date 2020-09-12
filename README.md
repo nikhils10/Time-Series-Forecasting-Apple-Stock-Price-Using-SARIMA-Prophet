@@ -15,7 +15,7 @@ I valued Apple by sincerely following Prof. Aswath Damodaran's guide to valuatio
 Out of my curiosity, I questioned how would both the techniques compare with each other?
 
 ## Problem Type
-Forecasting Problem.
+Time Series Forecasting Problem-Solved Using Seasonal ARIMA & Prophet.
 
 **Result Metrics**
 
