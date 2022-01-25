@@ -1,7 +1,5 @@
 # Time-Series Forecasting-Apple Stock Price Using SARIMA & Prophet
-![My Image](project_pic.png)![My Image](project_pic.png)
-
-
+![My Image](project_pic.png)!
 
 ## Project Overview 
 Comparison between **Time Series Analysis Vs Fundamental Analysis for Apple Inc**.
